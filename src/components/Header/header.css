@@ -1,4 +1,26 @@
-header {
-    display: flex;  
-    background-color: black;  
+.header {
+    display: flex;   
+    align-items: center;
+    margin: 25px 20px;
+    justify-content: space-between;
 }
+
+.header-notification {
+    display: flex;
+    gap: 15px;
+    align-items: center;    
+}
+
+.header-notification > h1 {
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.header-notification > p {
+    font-weight: 900;
+    color: white;
+    background-color: rgb(19, 19, 105);
+    border-radius: 7px;
+    padding: 3px 10px;
+}
+

@@ -12,6 +12,7 @@ function App() {
     <BoxFollow image={"./images/avatar-angela-gray.webp"} name={"Angela Gray"} time={"5m ago"}/>
     <BoxGroups image={"./images/avatar-jacob-thompson.webp"} name={"Jacob Thompson"} time={"1day ago"} att={"joined"} group={"Chess Club"} />
     <BoxReaction image={"./images/avatar-nathan-peterson.webp"} name={"Nathan Peterson"} event={"5 end-game strategies to increase your win rate"} time={"2 weeks ago"} />
+    <BoxGroups image={"./images/avatar-anna-kim.webp"} name={"Anna Kim"} time={"2 weeks ago"} att={""} group={"Chess Club"} />
     </>
   )
 }
